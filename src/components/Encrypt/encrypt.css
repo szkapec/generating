@@ -1,0 +1,32 @@
+.encrypt-body {
+    padding: 20px;
+    
+}
+
+.input-enc {
+    margin: 15px;
+    border-radius: 5px;
+    border:none;
+    max-width: 350px;
+    height: 50px;
+    padding: 5px;
+}
+
+.encrypt-form{
+    text-align: center;
+}
+.enc-text, .dnc-text {
+    background-color: #308ecc;
+    align-items: center;
+    width: 90%;
+    margin: 0px auto;
+    position: relative;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 15px;
+    border-radius: 5px;
+    border:none;
+    max-width: 300px;
+    height: 80px;
+    padding: 5px;
+}
