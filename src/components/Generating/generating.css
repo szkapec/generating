@@ -48,14 +48,14 @@
 }
 
 .generating {
-    background-color: #0c3d5e;
+    background-color: #35739d;
     color: black;
     display: block;
     font-weight: bold;
     font-size: 25px;
     padding: 16px;
     border: none;
-    margin: 0 auto;
+    margin: 30px auto;
     border-radius: 5px;
     width: 50%;
 }
